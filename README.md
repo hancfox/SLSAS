@@ -14,4 +14,4 @@ The innovation of SLSAS is as follows:
 
 
 " Small " self-developed platform
-[3D printing platform](https://github.com/hancfox/SLSAS/blob/master/3D%20print.png)
+![3D printing platform](https://github.com/hancfox/SLSAS/blob/master/3D%20print.png)
