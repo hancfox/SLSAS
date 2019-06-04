@@ -11,3 +11,5 @@ The innovation of SLSAS is as follows:
 2. It covers more comprehensive student behavior. This paper covers seven kinds of behaviors. It also systematically expounds the relationship between independent and interactive behaviors, individual and group behaviors in students' behavior. 
 3. It establishes a multilevel model of students' learning state, and realize the multidimensional visual analysis from students' behavior to students' learning state. 
 4. A self-developed platform called " Small " is constructed. Simplified behavior detection algorithm can run on it in real time. The front-end and back-end collaboration scheme can also be used. In this scheme, " Small " is used as a high sampling-rate acquisition platform, while the back-end runs the high accuracy algorithm, giving full play to the capabilities of the learning state analysis system.
+
+
