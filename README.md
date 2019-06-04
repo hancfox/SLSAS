@@ -13,3 +13,5 @@ The innovation of SLSAS is as follows:
 4. A self-developed platform called " Small " is constructed. Simplified behavior detection algorithm can run on it in real time. The front-end and back-end collaboration scheme can also be used. In this scheme, " Small " is used as a high sampling-rate acquisition platform, while the back-end runs the high accuracy algorithm, giving full play to the capabilities of the learning state analysis system.
 
 
+" Small " self-developed platform
+[3D printing platform](https://github.com/hancfox/SLSAS/blob/master/3D%20print.png)
